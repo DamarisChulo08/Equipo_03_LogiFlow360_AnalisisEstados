@@ -32,7 +32,7 @@
 * **Descripción:** Dossier técnico formal desarrollado de acuerdo con los requerimientos de la sección 5 del proyecto.
 
 ### 3. Defensa con Product Owner y Comité de Seguridad
-* **Enlace del Video:** 
+* **Enlace del Video:** https://mailutecedusv-my.sharepoint.com/:v:/g/personal/1724932026_mail_utec_edu_sv/IQBfMCWI_51SRbHZp1_4l0O0AZ0A1igaAZsceFCwp29x4Uk?e=czqirk
 * **Estado:** Permisos de visualización habilitados.
 
 ---
