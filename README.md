@@ -1,6 +1,6 @@
 # UNIVERSIDAD TECNOLÓGICA DE EL SALVADOR
 ## FACULTAD DE INFORMÁTICA Y CIENCIAS APLICADAS
-### ESCUELA DE INFORMÁTICA “ING. JULIO CÉSAR ORANTES”
+## ESCUELA DE INFORMÁTICA “ING. JULIO CÉSAR ORANTES”
 <img width="208" height="164" alt="image" src="https://github.com/user-attachments/assets/25d1fda3-a04b-472b-88fe-1cb48795315c" />
 
 **Asignatura:** Lenguaje Unificado Modelado (UML)  
