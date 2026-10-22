@@ -32,15 +32,15 @@
 * **Descripción:** Dossier técnico formal desarrollado de acuerdo con los requerimientos de la sección 5 del proyecto.
 
 ### 3. Defensa con Product Owner y Comité de Seguridad
-* **Enlace del Video:** https://mailutecedusv-my.sharepoint.com/:v:/g/personal/1724932026_mail_utec_edu_sv/IQBfMCWI_51SRbHZp1_4l0O0AZ0A1igaAZsceFCwp29x4Uk?e=czqirk
+* **Enlace del Video:** https://mailutecedusv-my.sharepoint.com/:v:/g/personal/1724932026_mail_utec_edu_sv/IQBMHUpbq6VISIoaBOowQOYBAa63WZvVj7RyZ8F4INhR1Bs?e=vUqKK2
 * **Estado:** Permisos de visualización habilitados.
 
 ---
 
 ## ⏱️ Minutaje de Exposición
 
-* **[00:00 - 03:00]** - Introducción y contextualización del proyecto
-* **[03:00 - 06:00]** - Exposición del modelo dinámico y arquitectura UML 
-* **[06:00 - 09:00]** - Reglas de negocio y casos de borde 
-* **[09:00 - 12:00]** - Integración, BD y patrón State 
-* **[12:00 - 15:39]** - Documentación técnica, matrices QA y cierre 
+* **[00:00 - 01:48]** - APERTURA Y PRESENTACIÓN EJECUTIVA
+* **[01:48 - 09:30]** - DEFENSA TÉCNICA DE LOS DIAGRAMAS
+* **[09:30 - 11:24]** - MATRICES DE TRANSICIÓN
+* **[11:24 - 13:16]** - IMPACTO EN BASE DE DATOS Y DESARROLLO BACKEND 
+* **[13:16 - 15:40]** - CIERRE Y RESPUESTA A LAS 3 PREGUNTAS TRAMPA DEL CLIENTE 
